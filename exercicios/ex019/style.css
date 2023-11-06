@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+body {
+    background-color: bisque;
+}
+
+h1 {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#principal {
+    color: chocolate;
+    font-size: 3em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#secundario {
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.basico {
+    background-color: gold;
+}
+
+.intermediario {
+    background-color: blue;
+}
+
+.avancado {
+    background-color: black;
+}
